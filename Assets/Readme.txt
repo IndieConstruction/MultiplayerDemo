@@ -17,3 +17,9 @@ Ogni client processa eventi e invia updates al server per sincronizzare gli altr
 APPROCCIO IBRIDO (UNITY)
 Il server è autoritativo per alcuni aspetti il client per altri.
 - Player Authority -> il client ha controllo diretto sul proprio player e comunica ogni cambiamento che ha affettuato al rerver che lo comunica agli altri clients.
+
+- [Command]
+- [RpcClient]
+- [SyncVar]
+- Network Start Point.
+
